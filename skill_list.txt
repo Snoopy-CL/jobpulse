@@ -1,0 +1,19 @@
+Python
+SQL
+AWS
+Spark
+Tableau
+Excel
+Snowflake
+dbt
+Power BI
+Airflow
+TensorFlow
+Kubernetes
+Looker
+pytorch
+GCP
+Azure
+oracle
+Hadoop
+NLP
